@@ -1,0 +1,5 @@
+{
+  "shutDownTimeout": 1000,
+  "serverPort": 3000,
+   "mongoDbConnection": "mongodb://localhost:27017/OrderDB"
+}
